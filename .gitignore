@@ -1,0 +1,6 @@
+.env
+finreg-kg/.streamlit/secrets.toml
+finreg-kg/.venv/
+__pycache__/
+*.pyc
+*.pkl
